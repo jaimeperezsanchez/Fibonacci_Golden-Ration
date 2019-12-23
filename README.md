@@ -2,4 +2,4 @@
 #### (Python 3.7)
 
 <img src="Fibonacci-Golden-ratio.jpg" alt="Fibonacci"
-	width="650" height="501" />
+	width="650" height="500" />
