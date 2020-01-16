@@ -3,4 +3,4 @@ Using 'Decimal' Python (v3.7) module for infinite decimal precision
 
 
 <img src="Fibonacci-Golden-ratio.jpg" alt="Fibonacci"
-	width="650" height="500" />
+	width="450" height="300" />
